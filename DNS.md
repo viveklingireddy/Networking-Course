@@ -21,4 +21,5 @@
 
 - Computer => ISP => Root Server (if not found) => ISP => Top Level Domain => ISP => google.com website.
 
+** Important
 
