@@ -2,7 +2,7 @@
   <h1>Introduction</h1>
 </div>
 
-## Whom should go through this course?
+## Who should go through this course?
 
 - This course is literally for everyone. Let them be a beginner or an expert in networking, this course will be helpful and fun for everyone.
 - The course purely focuses on theory and how its implemented and not focusing in practicals.
